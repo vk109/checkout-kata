@@ -1,0 +1,23 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+.product-box {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.product-item-box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 24%;
+	padding: 15px;
+}
+.pro-img-box {
+	padding: 10px;
+}
+.pro-img-box img {
+	width: 180px;
+	height: 180px;
+}
